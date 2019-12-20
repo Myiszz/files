@@ -50,12 +50,12 @@ let zzs = function  (){
 //     fas()
 // }
 zzs()
-setInterval(function(){
-    zzs()
-},10000)
-setInterval(function(){
-    zzs()
-},5000)
+// setInterval(function(){
+//     zzs()
+// },10000)
+// setInterval(function(){
+//     zzs()
+// },5000)
     // res.send("dsd")
  
 // })
